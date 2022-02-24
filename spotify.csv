@@ -1,0 +1,37 @@
+age,gender,genre
+20,1,K-pop
+23,1,K-pop
+25,1,K-pop
+26,1,K-pop
+28,1,Afrobeat
+30,1,Afrobeat
+31,1,Afrobeat
+33,1,Afrobeat
+37,1,Afrobeat
+38,1,Ambient music
+40,1,Ambient music
+42,1,Ambient music
+43,1,Ambient music
+45,1,Classic rock
+47,1,Classic rock
+49,1,Classic rock
+51,1,Classic rock
+53,1,Classic rock
+20,0,K-pop
+21,0,K-pop
+25,0,K-pop
+26,0,K-pop
+27,0,K-pop
+30,0,Afrobeat
+31,0,Afrobeat
+34,0,Afrobeat
+35,0,Afrobeat
+37,0,Afrobeat
+39,0,Afrobeat
+41,0,Ambient music
+43,0,Ambient music
+45,0,Ambient music
+47,0,Classic rock
+49,0,Classic rock
+51,0,Classic rock
+53,0,Classic rock
